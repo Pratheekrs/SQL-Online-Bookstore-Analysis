@@ -1,6 +1,6 @@
 # SQL Online Bookstore Analysis
 
-This project focuses on analyzing an Online Book Store dataset using SQL.
+Beginner Data Analytics Project using SQL to analyze an Online Book Store dataset and extract meaningful business insights.
 
 ## Dataset
 The dataset consists of 3 CSV files:
