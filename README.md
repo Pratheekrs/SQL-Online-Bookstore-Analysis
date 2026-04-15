@@ -9,6 +9,7 @@ The dataset consists of 3 CSV files:
 - Customers (customer information and location)
  https://github.com/Pratheekrs/SQL-Online-Bookstore-Analysis/blob/main/Customers.csv
 - Orders (order details and transactions)
+  https://github.com/Pratheekrs/SQL-Online-Bookstore-Analysis/blob/main/Orders.csv
 
 
 ## Questions Solved
