@@ -45,3 +45,6 @@ The dataset consists of 3 CSV files:
 - Identified top-performing books and customers
 - Analyzed sales trends across genres
 - Evaluated stock and revenue performance
+
+## Conclusion
+This project demonstrates how SQL can be used to analyze relational data and extract meaningful insights from real-world datasets. By working with multiple tables and queries, I improved my understanding of data relationships, aggregation, and business problem-solving. It helped me strengthen my SQL skills and build a strong foundation in data analysis.
